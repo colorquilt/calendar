@@ -15,3 +15,8 @@
 - Users shall create a new Calendar templates using HTML & CSS.
 
 -  It is Jekyll (https://jekyllrb.com/) / Hugo (https://gohugo.io/) for Calendars.
+
+
+### Similar projects
+	* Latex calendar generation : https://github.com/simu/latex-calgen
+	
